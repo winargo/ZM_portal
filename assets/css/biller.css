@@ -1,0 +1,21 @@
+.display-inline {
+    display: inline;
+}
+
+.box-list h4 {
+    color: #676A6C;
+    padding: 12px 0px 12px 0px;
+}
+
+.box-list:hover {
+    background-color: #f5f5f5;
+}
+
+.p-5 {
+    padding: 5px
+}
+
+.m-t-r-10 {
+    margin-top: 10px;
+    margin-right: 10px
+}

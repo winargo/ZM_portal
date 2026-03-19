@@ -1,0 +1,9 @@
+<script src="<?php echo base_url('assets/js/jquery-2.1.4.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/bootstrap.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/metisMenu.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/jquery.slimscroll.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/plugins/bootstrap-filestyle/js/bootstrap-filestyle.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/plugins/switchery/switchery.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/plugins/parsleyjs/parsley.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/plugins/moment/moment.js'); ?>"></script>
+<script src="<?php echo base_url('assets/plugins/select2/js/select2.min.js'); ?>"></script>
